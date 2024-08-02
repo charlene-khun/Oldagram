@@ -1,6 +1,8 @@
 html, body {
+    /* Modified from margin: 0 */
     margin: 0 auto;
     padding: 0;
+    /* Original had no width */
     width: 375px;
 }
 

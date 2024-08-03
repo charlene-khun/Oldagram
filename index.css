@@ -51,7 +51,7 @@ p
 {
     display: block;
     margin-top: 0px;
-    margin-bottom: 2px;
+    margin-bottom: 0px;
     font-size: 12px;
     font-family: "Source Sans 3", sans-serif;
     font-weight: 400;
@@ -64,6 +64,10 @@ p
     margin-top: 15px;
 }
 
+.info .place
+{
+    line-height: 0.8;
+}
 
 .vincent
 {
